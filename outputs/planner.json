@@ -1,0 +1,30 @@
+[
+  {
+    "topic": "Autonomous Study Workflow Agent Goal and Functionality",
+    "revise_on": "2025-11-15"
+  },
+  {
+    "topic": "Four-Layer Architecture (Data, Processing, Agent, Interface)",
+    "revise_on": "2025-11-17"
+  },
+  {
+    "topic": "Step-by-Step Implementation Plan (PDF Extraction and Text Cleaning)",
+    "revise_on": "2025-11-19"
+  },
+  {
+    "topic": "AI Prompting and JSON Output for Content Generation",
+    "revise_on": "2025-11-21"
+  },
+  {
+    "topic": "Multi-Agent System Roles and Interactions",
+    "revise_on": "2025-11-23"
+  },
+  {
+    "topic": "Revision Planning using the datetime module",
+    "revise_on": "2025-11-25"
+  },
+  {
+    "topic": "Recommended Tech Stack (PyMuPDF, Streamlit, OpenAI/Gemini)",
+    "revise_on": "2025-11-27"
+  }
+]

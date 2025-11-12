@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What are the three main study materials the Autonomous Study Workflow Agent is designed to create automatically?",
+    "answer": "Flashcards, Quizzes, and a Revision Plan."
+  },
+  {
+    "question": "In the Simple Layers architecture, what is the responsibility of the Data Layer?",
+    "answer": "The Data Layer reads all text from the notes or PDFs, such as extracting text from a file like 'Unit1.pdf'."
+  },
+  {
+    "question": "Which specific Python library and module import are required for extracting text from PDFs in Step 1?",
+    "answer": "The required library is 'pymupdf' (installed via pip), and the module imported is 'fitz' (import fitz)."
+  },
+  {
+    "question": "How is the extracted text cleaned and split into manageable chunks in Step 2 of the build plan?",
+    "answer": "The text is split by paragraphs using 'text.split(\"\\n\\n\")' and filtered to ignore chunks shorter than 50 characters."
+  },
+  {
+    "question": "What is the input and output of the Flashcard Agent in the Multi-Agent Setup?",
+    "answer": "The input is a Text chunk, and the output is Flashcards (Q/A pairs)."
+  }
+]

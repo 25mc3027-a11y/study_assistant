@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which layer in the project architecture is responsible for displaying the generated Flashcards and Quizzes on screen?",
+    "options": [
+      "Data Layer",
+      "Processing Layer",
+      "Agent Layer",
+      "Interface Layer"
+    ],
+    "answer": "Interface Layer"
+  },
+  {
+    "question": "When implementing the Revision Planner, what is the time difference (in days) between the revision schedules for the first topic (i=0) and the third topic (i=2)?",
+    "options": [
+      "2 days",
+      "4 days",
+      "6 days",
+      "8 days"
+    ],
+    "answer": "4 days"
+  },
+  {
+    "question": "If a Unicode error occurs during text extraction, how is the text recommended to be saved to resolve the issue?",
+    "options": [
+      "text.decode('ascii')",
+      "text.save('utf-16')",
+      "text.encode('utf-8')",
+      "text.clean_unicode()"
+    ],
+    "answer": "text.encode('utf-8')"
+  },
+  {
+    "question": "Which agent is listed as optional and handles answering user questions based on the provided text?",
+    "options": [
+      "Reader Agent",
+      "Planner Agent",
+      "Doubt Agent",
+      "Summarizer Agent"
+    ],
+    "answer": "Doubt Agent"
+  },
+  {
+    "question": "What is the primary recommended tool for building the User Interface (UI) according to the Beginner-Friendly Tech Stack?",
+    "options": [
+      "Gradio",
+      "TinyDB",
+      "Streamlit",
+      "Llama 3"
+    ],
+    "answer": "Streamlit"
+  }
+]
